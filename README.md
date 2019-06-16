@@ -5,6 +5,10 @@ In this project I will build nice profile card. Manipulate on backgrounds and cr
 * Then after 0.5s the card will move down. 
 * Card will display nicely. 
 
+* [Link to project hosted on Netlify](https://card-profile-kanjamad.netlify.com/)
+
+![website-gif](images/card.gif "website-gif")
+
 
 ### Viewport Units
 * Viewport Height (vh) = mean how many percent of viewport you want hight to be.
