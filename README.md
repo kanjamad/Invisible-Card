@@ -1,6 +1,6 @@
 # Invisible-Card
 In this project I will build nice profile card. Manipulate on backgrounds and create some cool effects. Project will be built based on HTML and CSS.
-* Point the girl image for 3s, 
+* Hover the girl image for 3s, 
 * So when the 1st transition of box shadow end. 
 * Then after 0.5s the card will move down. 
 * Card will display nicely. 
